@@ -18,3 +18,5 @@
   ```shell
   beam_calibr_gui.exe
   ```
+
+![image-20220921214734550](README.assets/image-20220921214734550.png)
