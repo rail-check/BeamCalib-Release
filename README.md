@@ -19,4 +19,6 @@
   beam_calibr_gui.exe
   ```
 
-![image-20220921214734550](README.assets/image-20220921214734550.png)
+（有 gif 演示，需要等待一会↓）
+
+![](README.assets/demo.gif)
