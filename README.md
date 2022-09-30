@@ -22,3 +22,9 @@
 （有 gif 演示，需要等待一会↓）
 
 ![](README.assets/demo.gif)
+
+## What's Changed
+* 消除 VTK deprecated warning 弹窗。 by @delyex in https://github.com/rail-check/BeamCalib/pull/6
+
+
+**Full Changelog**: https://github.com/rail-check/BeamCalib/compare/v1.2...v1.3
